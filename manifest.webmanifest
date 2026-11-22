@@ -1,0 +1,21 @@
+{
+  "name": "Ward Round · Group A",
+  "short_name": "Ward Round",
+  "description": "Consultant surgical ward round checklist",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fc",
+  "theme_color": "#0f4f82",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
