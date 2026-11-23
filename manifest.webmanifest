@@ -1,15 +1,15 @@
 {
-  "name": "Ward Round · Group A",
+  "name": "Consultant Ward Round",
   "short_name": "Ward Round",
-  "description": "Consultant surgical ward round checklist",
+  "description": "English surgical consultant ward-round checklist with printable forms and resident action summaries",
   "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f4f8fc",
   "theme_color": "#0f4f82",
-  "lang": "ar",
-  "dir": "rtl",
+  "lang": "en",
+  "dir": "ltr",
   "icons": [
     {
       "src": "icon.svg",
